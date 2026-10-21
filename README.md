@@ -13,7 +13,8 @@ Le dossier [`Livrables/`](Livrables/) est organisé en 4 domaines thématiques p
 | :--- | :--- |
 | 📋 [**Roadmap SEO Globale & 5 Epics**](Livrables/01_Roadmap_Epics/Strategie_SEO_Globale_Roadmap_Epics_myfootscope.md) | Synthèse vulgarisée pour le fondateur, plan d'action MoSCoW et découpage en 5 Epics prêtes pour la vente |
 | 🏁 [**Plan d'Exécution des 5 Sprints**](Livrables/01_Roadmap_Epics/Plan_Deploiement_Sprints_Execution_MyFootScope.md) | Découpage opérationnel en 5 Sprints (35 j), User Stories, fichiers cibles, critères DoD et diagramme Gantt |
-| 🛠️ [**Spécifications Techniques Sprint 1**](Livrables/01_Roadmap_Epics/Sprint_01_QuickWin_Cash_RAG_Specs_Techniques.md) | Dossier de réalisation prêt au dev : Nginx ai_search, /llms.txt, HeroRadarPreview TSX et Paywall Stripe Pro 29€ |
+| 🛠️ [**Spécifications Techniques Sprint 1**](Livrables/01_Roadmap_Epics/Sprint_01_QuickWin_Cash_RAG_Specs_Techniques.md) | Dossier de réalisation prêt au dev : Nginx ai_search, /llms.txt, PublicWidgetRenderer ECharts et Paywall Stripe Pro 29€ |
+| 🧠 [**Spécifications Techniques Sprint 2**](Livrables/01_Roadmap_Epics/Sprint_02_Autorite_GEO_Cocon_Educatif_Specs_Techniques.md) | Dossier de réalisation prêt au dev : 6 Fiches Piliers (xG, xA, PPDA...), Schema Stacking JSON-LD @graph et maillage Reasonable Surfer |
 
 ### 02. Acquisition, SEO & GEO (`Livrables/02_Acquisition_SEO_GEO/`)
 | Document | Rôle & Thématique Clé |

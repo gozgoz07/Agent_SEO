@@ -18,6 +18,7 @@
 | `M-003` | 👤 Stratège Humain | 👑 `@orchestrateur` | Stratégie SEO Globale vulgarisée & Découpage en 5 Epics de Vente | ✅ Terminé |
 | `M-004` | 👤 Stratège Humain | 👑 `@orchestrateur` | Définition des 5 Sprints d'Exécution Agile (US, DoD, Gantt 35j) | ✅ Terminé |
 | `M-005` | 👤 Stratège Humain | 👑 `@orchestrateur` | Spécifications Techniques Prêtes au Dev du Sprint 1 (Nginx, llms.txt, Hero Radar, Paywall 29€) | ✅ Terminé |
+| `M-006` | 👤 Stratège Humain | 👑 `@orchestrateur` | Spécifications Techniques Prêtes au Dev du Sprint 2 (6 Fiches Piliers GEO, Schema Stacking @graph, Maillage ECharts) | ✅ Terminé |
 
 ---
 
@@ -68,12 +69,19 @@ Recommandation : Découpler "ai_search" (autorisé en lecture index, follow) et 
 - US 1.2 (Standard /llms.txt) : Spécification d'un fichier Markdown de synthèse à haute densité d'informations.
 - US 1.3 (SXO / Hero Radar) : Composant React/TSX complet autonome avec 2 profils dynamiques (Création & Finition) et différentiel visuel immédiat.
 - US 1.4 (Fair-Design Paywall) : Grille tarifaire 3 colonnes avec forfait Pro 29€ TTC, sans engagement et annulation 1-clic garantie.
+
+[2026-10-21] 👑 @orchestrateur : ARBITRAGE SPÉCIFICATIONS TECHNIQUES DU SPRINT 2 (M-006)
+- Cocon Éducatif (US 2.1) : 6 fiches piliers (xG, xA, Passes progressives, PPDA, xT, Field Tilt) structurées en pyramide inversée (< 50 mots définition H1, densité ≥ 12 stats/100 mots).
+- GraphRAG & Schema Stacking (US 2.2) : Composant JsonLdMetric intégrant 5 schémas imbriqués (@graph) reliant le DataCatalog officiel à la DefinedTerm.
+- Maillage & ECharts (US 2.3) : Déclaration dans publicLayout de TanStack Router, maillage contextuel Reasonable Surfer depuis /catalog et vers la démo /explore.
 ```
 
 ---
 
 ## 4. Livrables Consolidés pour Décision Humaine (HITL)
 
+* **Validation Technique M-006 (Dossier Prêt au Dev Sprint 2) :**
+  - Validation des 6 contenus de fiches métriques et du modèle Schema Stacking JSON-LD.
 * **Validation Technique M-005 (Dossier Prêt au Dev Sprint 1) :**
   - Validation du code et de la configuration avant application sur `football-dataviz-api`.
 * **Validation Opérationnelle M-004 (Plan d'Exécution des 5 Sprints) :**
