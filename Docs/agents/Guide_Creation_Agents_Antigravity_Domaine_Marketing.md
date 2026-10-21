@@ -76,9 +76,18 @@ flowchart TD
 ```
 
 1. **Le Master Orchestrateur (`AGENTS.md`) :** Reçoit le besoin utilisateur, découpe la problématique, mandate les sous-agents, arbitre les tensions et consolide la synthèse finale.
-2. **Les Sous-Agents Spécialisés (`.agents/skills/`) :** Des entités monotâches dotées d'une posture cognitive étroite (ex: maximiser le ROI vs garantir la conformité légale).
-3. **Le Blackboard Partagé (`Blackboard.md`) :** Un fichier central d'échange où les agents écrivent leurs résultats intermédiaires sans s'interrompre mutuellement.
-4. **La Boucle de Délibération (Peer-Review & Veto) :** Avant validation, les agents spécialistes s'évaluent mutuellement (ex: le juridique audite le marketing).
+   * *👉 Exemple concret dans ce projet :* La directive racine [`.agents/AGENTS.md`](../../.agents/AGENTS.md) et la spécification macro [`Docs/config/Macro_Architecture_Agentique_MyFootScope.md`](../config/Macro_Architecture_Agentique_MyFootScope.md).
+2. **Les Sous-Agents Spécialisés (`.agents/skills/`) :** Des entités expertes dotées d'une posture cognitive étroite (ex: maximiser le ROI vs garantir la conformité légale ou explorer le code).
+   * *👉 Exemples concrets dans ce projet :*
+     - Stratège GTM & Viralité : [`.agents/skills/subagent-marketing/SKILL.md`](../../.agents/skills/subagent-marketing/SKILL.md)
+     - Ergonome SXO & Veto Fair-Design : [`.agents/skills/subagent-ux-ui/SKILL.md`](../../.agents/skills/subagent-ux-ui/SKILL.md)
+     - Acquisition & Ingestion IA : [`.agents/skills/subagent-seo-geo/SKILL.md`](../../.agents/skills/subagent-seo-geo/SKILL.md)
+     - Éclaireur Technique Codebase : [`.agents/skills/subagent-code-navigator/SKILL.md`](../../.agents/skills/subagent-code-navigator/SKILL.md)
+     - Radar Veille & Algorithmes : [`.agents/skills/subagent-market-intelligence/SKILL.md`](../../.agents/skills/subagent-market-intelligence/SKILL.md)
+3. **Le Blackboard Partagé (`Blackboard.md`) :** Un fichier central d'échange où les agents écrivent leurs résultats intermédiaires, leurs chiffres et leurs objections sans saturer le fil de discussion.
+   * *👉 Exemple concret dans ce projet :* [`Livrables/Blackboard_Strategique.md`](../../Livrables/Blackboard_Strategique.md).
+4. **La Boucle de Délibération (Peer-Review & Veto) :** Avant validation, les agents spécialistes s'évaluent mutuellement (ex: l'agent UX audite le marketing et peut émettre un veto bloquant).
+   * *👉 Exemple concret dans ce projet :* Le diagramme de séquence dans [`Docs/config/Macro_Architecture_Agentique_MyFootScope.md`](../config/Macro_Architecture_Agentique_MyFootScope.md) et la charte de veto dans [`Livrables/Charte_Anti_Dark_Patterns_UX_myfootscope.md`](../../Livrables/Charte_Anti_Dark_Patterns_UX_myfootscope.md).
 
 ---
 
