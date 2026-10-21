@@ -4,10 +4,11 @@
 **Auteur :** Antigravity AI – Pôle Ingénierie des Systèmes Agentiques & Méthodologie Produit  
 **Cas d'Application :** `myfootscope.fr` (Football Dataviz as a Service)  
 **Livrables Stratégiques Associés :**  
-- Acquisition & Ingestion : [`Strategie_SEO_GEO_myfootscope_fr.md`](./Strategie_SEO_GEO_myfootscope_fr.md)  
-- Ergonomie & SXO : [`Strategie_UX_UI_Conversion_2026_myfootscope.md`](./Strategie_UX_UI_Conversion_2026_myfootscope.md)  
-- Garde-Fou Éthique : [`Charte_Anti_Dark_Patterns_UX_myfootscope.md`](./Charte_Anti_Dark_Patterns_UX_myfootscope.md)  
-- Distribution & Monétisation : [`Strategie_Marketing_GTM_myfootscope_fr.md`](./Strategie_Marketing_GTM_myfootscope_fr.md)  
+- Pilotage & Epics : [`Strategie_SEO_Globale_Roadmap_Epics_myfootscope.md`](../../Livrables/01_Roadmap_Epics/Strategie_SEO_Globale_Roadmap_Epics_myfootscope.md)
+- Acquisition & Ingestion : [`Strategie_SEO_GEO_myfootscope_fr.md`](../../Livrables/02_Acquisition_SEO_GEO/Strategie_SEO_GEO_myfootscope_fr.md)  
+- Ergonomie & SXO : [`Strategie_UX_UI_Conversion_2026_myfootscope.md`](../../Livrables/03_UX_UI_Conversion/Strategie_UX_UI_Conversion_2026_myfootscope.md)  
+- Garde-Fou Éthique : [`Charte_Anti_Dark_Patterns_UX_myfootscope.md`](../../Livrables/03_UX_UI_Conversion/Charte_Anti_Dark_Patterns_UX_myfootscope.md)  
+- Distribution & Monétisation : [`Strategie_Marketing_GTM_myfootscope_fr.md`](../../Livrables/04_Marketing_GTM/Strategie_Marketing_GTM_myfootscope_fr.md)  
 
 ---
 
@@ -272,10 +273,10 @@ Pour déployer concrètement ce cadre de travail lors de futures sessions de pai
 
 ### 6.1. Structure du Contexte Système Partagé (*Blackboard Memory*)
 Chaque agent est instancié avec un accès en lecture aux 4 livrables fondamentaux situés dans [`Livrables/`](file:///c:/Users/oreeg/Documents/Projet%20%20IA%20G%C3%A9n%C3%A9rative/Livrables) :
-1. **Socle de Vérité Technique :** [`Strategie_SEO_GEO_myfootscope_fr.md`](./Strategie_SEO_GEO_myfootscope_fr.md)
-2. **Socle d'Expérience & SXO :** [`Strategie_UX_UI_Conversion_2026_myfootscope.md`](./Strategie_UX_UI_Conversion_2026_myfootscope.md)
-3. **Socle Éthique Inviolable :** [`Charte_Anti_Dark_Patterns_UX_myfootscope.md`](./Charte_Anti_Dark_Patterns_UX_myfootscope.md)
-4. **Socle de Croissance & Offre :** [`Strategie_Marketing_GTM_myfootscope_fr.md`](./Strategie_Marketing_GTM_myfootscope_fr.md)
+1. **Socle de Vérité Technique :** [`Strategie_SEO_GEO_myfootscope_fr.md`](../../Livrables/02_Acquisition_SEO_GEO/Strategie_SEO_GEO_myfootscope_fr.md)
+2. **Socle d'Expérience & SXO :** [`Strategie_UX_UI_Conversion_2026_myfootscope.md`](../../Livrables/03_UX_UI_Conversion/Strategie_UX_UI_Conversion_2026_myfootscope.md)
+3. **Socle Éthique Inviolable :** [`Charte_Anti_Dark_Patterns_UX_myfootscope.md`](../../Livrables/03_UX_UI_Conversion/Charte_Anti_Dark_Patterns_UX_myfootscope.md)
+4. **Socle de Croissance & Offre :** [`Strategie_Marketing_GTM_myfootscope_fr.md`](../../Livrables/04_Marketing_GTM/Strategie_Marketing_GTM_myfootscope_fr.md)
 
 ### 6.2. Protocole de Requête pour le Travail au Quotidien
 Lorsque le fondateur souhaite adresser un nouveau sujet (ex: *"Comment aborder le lancement de notre nouvelle métrique de passes progressives ?"*) :

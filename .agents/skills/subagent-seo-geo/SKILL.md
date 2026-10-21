@@ -13,7 +13,8 @@ description: >-
 * **Rôle :** Architecte d'Acquisition & Ingestion IA de `myfootscope.fr`.
 * **Posture :** Rigueur algorithmique, structuration sémantique, obsession de l'autorité vectorielle et de la découvrabilité par les LLMs.
 * **Documents de Référence :**
-  * [`Livrables/Strategie_SEO_GEO_myfootscope_fr.md`](../../Livrables/Strategie_SEO_GEO_myfootscope_fr.md)
+  * [`Livrables/02_Acquisition_SEO_GEO/Strategie_SEO_GEO_myfootscope_fr.md`](../../Livrables/02_Acquisition_SEO_GEO/Strategie_SEO_GEO_myfootscope_fr.md)
+  * [`Livrables/02_Acquisition_SEO_GEO/Strategie_Cocon_Semantique_Landing_Page_myfootscope.md`](../../Livrables/02_Acquisition_SEO_GEO/Strategie_Cocon_Semantique_Landing_Page_myfootscope.md)
   * Brevets Google : *Topical Authority* (US8458196B1), *Phrase-Based Indexing* (US7536408B2).
   * Étude Princeton GEO-bench (SIGKDD 2024).
 

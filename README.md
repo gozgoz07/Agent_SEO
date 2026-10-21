@@ -6,16 +6,29 @@ Workspace de pair-strategy multi-agents dédié à la conception, l'évaluation 
 
 ## 📚 Livrables Stratégiques Produit
 
-Le dossier [`Livrables/`](Livrables/) contient exclusivement les spécifications et doctrines du produit :
+Le dossier [`Livrables/`](Livrables/) est organisé en 4 domaines thématiques pour accueillir les livrables actuels et futurs :
 
-| Livrable | Rôle & Thématique Clé |
+### 01. Pilotage, Roadmap & Epics (`Livrables/01_Roadmap_Epics/`)
+| Document | Rôle & Thématique Clé |
 | :--- | :--- |
-| 📋 [**Roadmap SEO Globale & 5 Epics**](Livrables/Strategie_SEO_Globale_Roadmap_Epics_myfootscope.md) | Synthèse vulgarisée pour le fondateur, plan d'action MoSCoW et découpage en 5 Epics prêtes pour la vente |
-| 🎯 [**Cocon Sémantique & Landing Page**](Livrables/Strategie_Cocon_Semantique_Landing_Page_myfootscope.md) | Topic Authority à 3 piliers, benchmark (DataMB/FBref), wireframe SXO & Funnel Skip |
-| 🔍 [**Stratégie SEO & GEO 2026**](Livrables/Strategie_SEO_GEO_myfootscope_fr.md) | Ingestion IA, programmatic SEO, standards `/llms.txt`, Schema Stacking et IndexNow |
-| 🎨 [**Stratégie UX/UI & Conversion**](Livrables/Strategie_UX_UI_Conversion_2026_myfootscope.md) | SXO, Funnel Skip (30 % initiaux), Design System OKLCH feutré et scaling contextuel |
-| 🛡️ [**Charte Anti-Dark Patterns**](Livrables/Charte_Anti_Dark_Patterns_UX_myfootscope.md) | Décalogue d'interdictions éthiques (DSA art. 25, RGPD, annulation 1-clic) et pouvoir de veto |
-| 🚀 [**Stratégie Marketing & GTM**](Livrables/Strategie_Marketing_GTM_myfootscope_fr.md) | Product-Led Growth (PLG), widget embed viral ($K$-factor), personas et packaging transparent |
+| 📋 [**Roadmap SEO Globale & 5 Epics**](Livrables/01_Roadmap_Epics/Strategie_SEO_Globale_Roadmap_Epics_myfootscope.md) | Synthèse vulgarisée pour le fondateur, plan d'action MoSCoW et découpage en 5 Epics prêtes pour la vente |
+
+### 02. Acquisition, SEO & GEO (`Livrables/02_Acquisition_SEO_GEO/`)
+| Document | Rôle & Thématique Clé |
+| :--- | :--- |
+| 🎯 [**Cocon Sémantique & Landing Page**](Livrables/02_Acquisition_SEO_GEO/Strategie_Cocon_Semantique_Landing_Page_myfootscope.md) | Topic Authority à 3 piliers, benchmark (DataMB/FBref), wireframe SXO & Funnel Skip |
+| 🔍 [**Stratégie SEO & GEO 2026**](Livrables/02_Acquisition_SEO_GEO/Strategie_SEO_GEO_myfootscope_fr.md) | Ingestion IA, programmatic SEO, standards `/llms.txt`, Schema Stacking et IndexNow |
+
+### 03. Expérience Utilisateur, SXO & Éthique (`Livrables/03_UX_UI_Conversion/`)
+| Document | Rôle & Thématique Clé |
+| :--- | :--- |
+| 🎨 [**Stratégie UX/UI & Conversion**](Livrables/03_UX_UI_Conversion/Strategie_UX_UI_Conversion_2026_myfootscope.md) | SXO, Funnel Skip (30 % initiaux), Design System OKLCH feutré et scaling contextuel |
+| 🛡️ [**Charte Anti-Dark Patterns**](Livrables/03_UX_UI_Conversion/Charte_Anti_Dark_Patterns_UX_myfootscope.md) | Décalogue d'interdictions éthiques (DSA art. 25, RGPD, annulation 1-clic) et pouvoir de veto |
+
+### 04. Go-To-Market & Croissance (`Livrables/04_Marketing_GTM/`)
+| Document | Rôle & Thématique Clé |
+| :--- | :--- |
+| 🚀 [**Stratégie Marketing & GTM**](Livrables/04_Marketing_GTM/Strategie_Marketing_GTM_myfootscope_fr.md) | Product-Led Growth (PLG), widget embed viral ($K$-factor), personas et packaging transparent |
 
 ---
 

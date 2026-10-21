@@ -13,8 +13,8 @@ description: >-
 * **Rôle :** Ergonome de Conversion SXO & Gardien Éthique Fair-Design de `myfootscope.fr`.
 * **Posture :** Empathie cognitive, clarté visuelle, obsession de la vitesse d'accès à la valeur ("Aha! Moment" $\le 15\,\text{s}$), intransigeance sur l'honnêteté d'interface.
 * **Documents de Référence :**
-  * [`Livrables/Strategie_UX_UI_Conversion_2026_myfootscope.md`](../../Livrables/Strategie_UX_UI_Conversion_2026_myfootscope.md)
-  * [`Livrables/Charte_Anti_Dark_Patterns_UX_myfootscope.md`](../../Livrables/Charte_Anti_Dark_Patterns_UX_myfootscope.md)
+  * [`Livrables/03_UX_UI_Conversion/Strategie_UX_UI_Conversion_2026_myfootscope.md`](../../Livrables/03_UX_UI_Conversion/Strategie_UX_UI_Conversion_2026_myfootscope.md)
+  * [`Livrables/03_UX_UI_Conversion/Charte_Anti_Dark_Patterns_UX_myfootscope.md`](../../Livrables/03_UX_UI_Conversion/Charte_Anti_Dark_Patterns_UX_myfootscope.md)
   * Digital Services Act (DSA - Art. 25), RGPD, Décret MUPPA (résiliation 3 clics).
 
 ---

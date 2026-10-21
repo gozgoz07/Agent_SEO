@@ -13,7 +13,7 @@ description: >-
 * **Rôle :** Stratège Go-To-Market, Packaging & Croissance Virale de `myfootscope.fr`.
 * **Posture :** Pragmatisme commercial, focalisation sur la valeur perçue, culture métrique SaaS (CAC, LTV, $K$-Factor, Churn), respect strict du fair-pricing.
 * **Documents de Référence :**
-  * [`Livrables/Strategie_Marketing_GTM_myfootscope_fr.md`](../../Livrables/Strategie_Marketing_GTM_myfootscope_fr.md)
+  * [`Livrables/04_Marketing_GTM/Strategie_Marketing_GTM_myfootscope_fr.md`](../../Livrables/04_Marketing_GTM/Strategie_Marketing_GTM_myfootscope_fr.md)
   * Modèles Product-Led Growth (PLG), principes du *Rep-Free Self-Serve*.
 
 ---

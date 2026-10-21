@@ -87,7 +87,7 @@ flowchart TD
 3. **Le Blackboard Partagé (`Blackboard.md`) :** Un fichier central d'échange où les agents écrivent leurs résultats intermédiaires, leurs chiffres et leurs objections sans saturer le fil de discussion.
    * *👉 Exemple concret dans ce projet :* [`Livrables/Blackboard_Strategique.md`](../../Livrables/Blackboard_Strategique.md).
 4. **La Boucle de Délibération (Peer-Review & Veto) :** Avant validation, les agents spécialistes s'évaluent mutuellement (ex: l'agent UX audite le marketing et peut émettre un veto bloquant).
-   * *👉 Exemple concret dans ce projet :* Le diagramme de séquence dans [`Docs/config/Macro_Architecture_Agentique_MyFootScope.md`](../config/Macro_Architecture_Agentique_MyFootScope.md) et la charte de veto dans [`Livrables/Charte_Anti_Dark_Patterns_UX_myfootscope.md`](../../Livrables/Charte_Anti_Dark_Patterns_UX_myfootscope.md).
+   * *👉 Exemple concret dans ce projet :* Le diagramme de séquence dans [`Docs/config/Macro_Architecture_Agentique_MyFootScope.md`](../config/Macro_Architecture_Agentique_MyFootScope.md) et la charte de veto dans [`Livrables/03_UX_UI_Conversion/Charte_Anti_Dark_Patterns_UX_myfootscope.md`](../../Livrables/03_UX_UI_Conversion/Charte_Anti_Dark_Patterns_UX_myfootscope.md).
 
 ---
 
