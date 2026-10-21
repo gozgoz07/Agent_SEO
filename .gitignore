@@ -1,0 +1,7 @@
+# Sub-repository already versioned separately
+football-dataviz-api/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.tmp
