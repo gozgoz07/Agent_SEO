@@ -26,6 +26,7 @@ Ce workspace implémente un modèle **Master Orchestrator + Subagents spécialis
 * 🎨 **Sous-Agent UX/UI Fair-Design :** [`.agents/skills/subagent-ux-ui/SKILL.md`](.agents/skills/subagent-ux-ui/SKILL.md)
 * 🚀 **Sous-Agent Marketing GTM :** [`.agents/skills/subagent-marketing/SKILL.md`](.agents/skills/subagent-marketing/SKILL.md)
 * 🧭 **Sous-Agent Code Navigator :** [`.agents/skills/subagent-code-navigator/SKILL.md`](.agents/skills/subagent-code-navigator/SKILL.md) (Inspection chirurgicale du code volumineux sans saturation de contexte)
+* 📡 **Sous-Agent Market Intelligence :** [`.agents/skills/subagent-market-intelligence/SKILL.md`](.agents/skills/subagent-market-intelligence/SKILL.md) (Veille concurrentielle active, surveillance SearchGPT/Perplexity et cadre réglementaire)
 
 ---
 

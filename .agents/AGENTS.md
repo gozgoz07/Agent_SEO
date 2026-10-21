@@ -58,6 +58,15 @@ Lorsqu'une demande stratégique est traitée dans ce workspace, l'assistant acti
   * Fournir aux 3 agents spécialistes des cartographies condensées (routes Fastify, routes TanStack, tokens OKLCH de `index.css`, configuration Nginx `00-maps.conf`).
   * Déposer les extractions au format JSON / Markdown synthétique dans le Blackboard.
 
+### 📡 @agent-market-intelligence (L'Éclaireur Marché & Veille Algorithmique)
+* **Posture :** Rigueur d'investigation, esprit critique, filtre anti-bruit intransigeant, vérification par sources primaires.
+* **Doctrine & Référence :** [`.agents/skills/subagent-market-intelligence/SKILL.md`](skills/subagent-market-intelligence/SKILL.md).
+* **Missions :**
+  * Benchmarker en direct les concurrents (FBref, Wyscout, DataMB, Sofascore, Understat).
+  * Traquer les évolutions des crawlers IA (SearchGPT, PerplexityBot, Claude-Search) et du standard `/llms.txt`.
+  * Surveiller les décisions réglementaires (DSA art. 25, condamnations Dark Patterns) pour armer le veto de l'Agent UX.
+  * Déposer des fiches d'intelligence comparative dans le Blackboard.
+
 ---
 
 ## 3. Protocole Opérationnel de Travail (Workflow en 4 Temps)
@@ -108,7 +117,8 @@ Toute tâche complexe suit obligatoirement la boucle récursive suivante :
     ├── subagent-seo-geo/SKILL.md              [Skill & Mandat SEO / GEO / Schema Stacking]
     ├── subagent-ux-ui/SKILL.md                [Skill & Mandat SXO / Fair-Design / Veto Éthique]
     ├── subagent-marketing/SKILL.md            [Skill & Mandat GTM / PLG / Personas]
-    └── subagent-code-navigator/SKILL.md       [Skill & Mandat Exploration Code Chirurgicale]
+    ├── subagent-code-navigator/SKILL.md       [Skill & Mandat Exploration Code Chirurgicale]
+    └── subagent-market-intelligence/SKILL.md  [Skill & Mandat Veille Concurrentielle & Algorithmique]
 
 Livrables/
 ├── Blackboard_Strategique.md                  [Espace d'échange, logs de veto et de synthèse]
