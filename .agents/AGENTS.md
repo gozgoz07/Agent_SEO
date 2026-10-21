@@ -126,6 +126,7 @@ Docs/config/
 
 Livrables/
 ├── Blackboard_Strategique.md                  [Espace d'échange, logs de veto et de synthèse]
+├── Strategie_SEO_Globale_Roadmap_Epics_myfootscope.md [Roadmap MoSCoW & 5 Epics de vente]
 ├── Strategie_Cocon_Semantique_Landing_Page_myfootscope.md [Topic Authority à 3 piliers & Wireframe SXO]
 ├── Strategie_SEO_GEO_myfootscope_fr.md        [Spécification SEO / GEO / Nginx / Cloudflare]
 ├── Strategie_UX_UI_Conversion_2026_myfootscope.md [Spécification SXO / Funnel Skip / Design System]

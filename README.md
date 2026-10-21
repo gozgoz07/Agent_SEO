@@ -9,6 +9,8 @@ Workspace de pair-strategy multi-agents dédié à la conception, l'évaluation 
 Le dossier [`Livrables/`](Livrables/) contient exclusivement les spécifications et doctrines du produit :
 
 | Livrable | Rôle & Thématique Clé |
+| :--- | :--- |
+| 📋 [**Roadmap SEO Globale & 5 Epics**](Livrables/Strategie_SEO_Globale_Roadmap_Epics_myfootscope.md) | Synthèse vulgarisée pour le fondateur, plan d'action MoSCoW et découpage en 5 Epics prêtes pour la vente |
 | 🎯 [**Cocon Sémantique & Landing Page**](Livrables/Strategie_Cocon_Semantique_Landing_Page_myfootscope.md) | Topic Authority à 3 piliers, benchmark (DataMB/FBref), wireframe SXO & Funnel Skip |
 | 🔍 [**Stratégie SEO & GEO 2026**](Livrables/Strategie_SEO_GEO_myfootscope_fr.md) | Ingestion IA, programmatic SEO, standards `/llms.txt`, Schema Stacking et IndexNow |
 | 🎨 [**Stratégie UX/UI & Conversion**](Livrables/Strategie_UX_UI_Conversion_2026_myfootscope.md) | SXO, Funnel Skip (30 % initiaux), Design System OKLCH feutré et scaling contextuel |

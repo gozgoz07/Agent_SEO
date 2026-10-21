@@ -15,6 +15,7 @@
 | `M-INIT` | 👤 Stratège Humain | 👑 `@orchestrateur` | Déploiement de l'architecture Master + Subagents sous Antigravity | ✅ Terminé |
 | `M-001` | 👤 Stratège Humain | 🔍 `@agent-seo-geo` | Audit Nginx : Détection du blocage ClaudeBot / PerplexityBot pour RAG | ✅ Terminé |
 | `M-002` | 👤 Stratège Humain | 👑 `@orchestrateur` | Cocon Sémantique (Topic Authority) & Stratégie Landing Page SXO | ✅ Terminé |
+| `M-003` | 👤 Stratège Humain | 👑 `@orchestrateur` | Stratégie SEO Globale vulgarisée & Découpage en 5 Epics de Vente | ✅ Terminé |
 
 ---
 
