@@ -50,6 +50,14 @@ Lorsqu'une demande stratégique est traitée dans ce workspace, l'assistant acti
   * Rédiger les débriefs tactiques post-matchs ("Data Storytelling") sur les réseaux.
   * Structurer les forfaits transparents (Découverte 0 €, Pro 29 €, API 149 €) en mode *Rep-Free*.
 
+### 🧭 @agent-code-navigator (L'Éclaireur Technique & Cartographe Codebase)
+* **Posture :** Rigueur d'ingénierie, concision chirurgicale, compression d'information.
+* **Doctrine & Référence :** [`.agents/skills/subagent-code-navigator/SKILL.md`](skills/subagent-code-navigator/SKILL.md).
+* **Missions :**
+  * Inspecter le code volumineux `football-dataviz-api` sans saturer la fenêtre de contexte.
+  * Fournir aux 3 agents spécialistes des cartographies condensées (routes Fastify, routes TanStack, tokens OKLCH de `index.css`, configuration Nginx `00-maps.conf`).
+  * Déposer les extractions au format JSON / Markdown synthétique dans le Blackboard.
+
 ---
 
 ## 3. Protocole Opérationnel de Travail (Workflow en 4 Temps)
@@ -64,13 +72,14 @@ Toute tâche complexe suit obligatoirement la boucle récursive suivante :
 │    L'utilisateur pose une question / un besoin.                        │
 │    L'Orchestrateur reformule, découpe et attribue les axes d'analyse.  │
 │                                                                        │
-│ 2. CO-PRODUCTION SPÉCIALISÉE                                           │
-│    Chaque agent élabore sa réponse selon sa doctrine spécifique.       │
+│ 2. CO-PRODUCTION SPÉCIALISÉE & EXPLORATION CODE                        │
+│    • L'Agent Code Navigator extrait la topologie technique requise.    │
+│    • Chaque agent spécialiste élabore sa réponse selon sa doctrine.    │
 │                                                                        │
 │ 3. CHALLENGE CROISÉ & VETO ÉTHIQUE (PEER-REVIEW)                       │
 │    • L'Agent UX évalue le Marketing sous le prisme Anti-Dark Pattern.  │
 │    • L'Agent SEO vérifie la lisibilité IA des propositions.            │
-│    • L'Orchestrateur arbitre les compromis (trade-offs).               │
+│    • L'Orchestrateur arbitre les compromis (trade-offs) au Blackboard. │
 │                                                                        │
 │ 4. SYNTHÈSE & VALIDATION HUMAINE (HITL)                                │
 │    L'Orchestrateur consolide la matrice finale pour le fondateur.      │
@@ -90,13 +99,22 @@ Toute tâche complexe suit obligatoirement la boucle récursive suivante :
 
 ---
 
-## 5. Matrice des Connaissances & Livrables Reliés
+## 5. Matrice des Connaissances, Skills & Blackboard
 
 ```
+.agents/
+├── AGENTS.md                                  [Directives et gouvernance du Master Agent]
+└── skills/
+    ├── subagent-seo-geo/SKILL.md              [Skill & Mandat SEO / GEO / Schema Stacking]
+    ├── subagent-ux-ui/SKILL.md                [Skill & Mandat SXO / Fair-Design / Veto Éthique]
+    ├── subagent-marketing/SKILL.md            [Skill & Mandat GTM / PLG / Personas]
+    └── subagent-code-navigator/SKILL.md       [Skill & Mandat Exploration Code Chirurgicale]
+
 Livrables/
+├── Blackboard_Strategique.md                  [Espace d'échange, logs de veto et de synthèse]
+├── Macro_Architecture_Agentique_MyFootScope.md [Macro-architecture du cadre agentique]
 ├── Strategie_SEO_GEO_myfootscope_fr.md        [Spécification SEO / GEO / Nginx / Cloudflare]
 ├── Strategie_UX_UI_Conversion_2026_myfootscope.md [Spécification SXO / Funnel Skip / Design System]
 ├── Charte_Anti_Dark_Patterns_UX_myfootscope.md  [Charte Éthique & Décalogue des Interdictions]
-├── Strategie_Marketing_GTM_myfootscope_fr.md    [Plan Go-To-Market & Modèle Viral Product-Led]
-└── Macro_Architecture_Agentique_MyFootScope.md  [Architecture Méthodologique Multi-Agents]
+└── Strategie_Marketing_GTM_myfootscope_fr.md    [Plan Go-To-Market & Modèle Viral Product-Led]
 ```
