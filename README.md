@@ -4,16 +4,28 @@ Workspace de pair-strategy multi-agents dédié à la conception, l'évaluation 
 
 ---
 
-## 📚 Livrables Stratégiques
+## 📚 Livrables Stratégiques Produit
 
-| Document | Rôle & Thématique Clé |
-| 📘 [**Guide Opératoire Utilisateur**](Livrables/Guide_Operatoire_Exploitation_Agents.md) | Mode d'emploi, cheat sheet de prompts et procédures pour exploiter les agents au quotidien |
-| 👑 [**Macro-Architecture Agentique**](Livrables/Macro_Architecture_Agentique_MyFootScope.md) | Architecture multi-agents, boucle récursive de peer-review et diagramme de séquence Mermaid |
-| 📋 [**Blackboard Stratégique Partagé**](Livrables/Blackboard_Strategique.md) | Espace de délibération inter-agents, logs de veto éthique et synthèses consolidées |
+Le dossier [`Livrables/`](Livrables/) contient exclusivement les spécifications et doctrines du produit :
+
+| Livrable | Rôle & Thématique Clé |
+| :--- | :--- |
 | 🔍 [**Stratégie SEO & GEO 2026**](Livrables/Strategie_SEO_GEO_myfootscope_fr.md) | Ingestion IA, programmatic SEO, standards `/llms.txt`, Schema Stacking et IndexNow |
 | 🎨 [**Stratégie UX/UI & Conversion**](Livrables/Strategie_UX_UI_Conversion_2026_myfootscope.md) | SXO, Funnel Skip (30 % initiaux), Design System OKLCH feutré et scaling contextuel |
 | 🛡️ [**Charte Anti-Dark Patterns**](Livrables/Charte_Anti_Dark_Patterns_UX_myfootscope.md) | Décalogue d'interdictions éthiques (DSA art. 25, RGPD, annulation 1-clic) et pouvoir de veto |
 | 🚀 [**Stratégie Marketing & GTM**](Livrables/Strategie_Marketing_GTM_myfootscope_fr.md) | Product-Led Growth (PLG), widget embed viral ($K$-factor), personas et packaging transparent |
+
+---
+
+## 🛠️ Configuration & Architecture Agentique
+
+La documentation d'ingénierie et de configuration des agents est centralisée dans [`Docs/config/`](Docs/config/) :
+
+| Document | Rôle & Usage |
+| :--- | :--- |
+| 📘 [**Guide Opératoire Utilisateur**](Docs/config/Guide_Operatoire_Exploitation_Agents.md) | Mode d'emploi, cheat sheet de prompts et procédures pour exploiter les agents au quotidien |
+| 👑 [**Macro-Architecture Agentique**](Docs/config/Macro_Architecture_Agentique_MyFootScope.md) | Architecture multi-agents, boucle récursive de peer-review et diagramme de séquence Mermaid |
+| 📋 [**Blackboard Stratégique Partagé**](Livrables/Blackboard_Strategique.md) | Espace de délibération inter-agents, logs de veto éthique et synthèses consolidées |
 
 ---
 

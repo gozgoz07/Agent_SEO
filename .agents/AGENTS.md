@@ -6,7 +6,7 @@ Ce workspace est configuré comme un **Cadre Méthodologique Multi-Agents de Pai
 Sa mission est de permettre au stratège humain / fondateur de concevoir, éprouver, aligner et itérer sur l'intégralité de la chaîne de valeur stratégique du produit `myfootscope.fr` (Football Dataviz as a Service), de l'acquisition jusqu'à la conversion et à la distribution.
 
 Le système opère sous la gouvernance du document de référence :  
-👉 [`Livrables/Macro_Architecture_Agentique_MyFootScope.md`](../Livrables/Macro_Architecture_Agentique_MyFootScope.md)
+👉 [`Docs/config/Macro_Architecture_Agentique_MyFootScope.md`](../Docs/config/Macro_Architecture_Agentique_MyFootScope.md)
 
 ---
 
@@ -120,9 +120,12 @@ Toute tâche complexe suit obligatoirement la boucle récursive suivante :
     ├── subagent-code-navigator/SKILL.md       [Skill & Mandat Exploration Code Chirurgicale]
     └── subagent-market-intelligence/SKILL.md  [Skill & Mandat Veille Concurrentielle & Algorithmique]
 
+Docs/config/
+├── Macro_Architecture_Agentique_MyFootScope.md [Macro-architecture du cadre agentique]
+└── Guide_Operatoire_Exploitation_Agents.md     [Guide d'exploitation utilisateur & cheat sheet]
+
 Livrables/
 ├── Blackboard_Strategique.md                  [Espace d'échange, logs de veto et de synthèse]
-├── Macro_Architecture_Agentique_MyFootScope.md [Macro-architecture du cadre agentique]
 ├── Strategie_SEO_GEO_myfootscope_fr.md        [Spécification SEO / GEO / Nginx / Cloudflare]
 ├── Strategie_UX_UI_Conversion_2026_myfootscope.md [Spécification SXO / Funnel Skip / Design System]
 ├── Charte_Anti_Dark_Patterns_UX_myfootscope.md  [Charte Éthique & Décalogue des Interdictions]
