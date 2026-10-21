@@ -42,5 +42,6 @@ Ce workspace implémente un modèle **Master Orchestrator + Subagents spécialis
 
 ---
 
-## 📚 Corpus Documentaire
-* Corpus de référence SEO et UX/UI : [`Docs/`](Docs/)
+## 📚 Corpus Documentaire & Guides Méthodologiques
+* 🏗️ [**Guide d'Ingénierie Agentique Antigravity (Cas Marketing)**](Docs/agents/Guide_Creation_Agents_Antigravity_Domaine_Marketing.md) : Méthode générique pas à pas, architecture en 4 piliers, boilerplates et bonnes pratiques.
+* 📖 Corpus technique de référence SEO et UX/UI : [`Docs/`](Docs/)
