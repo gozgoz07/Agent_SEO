@@ -7,7 +7,7 @@ Workspace de pair-strategy multi-agents dédié à la conception, l'évaluation 
 ## 📚 Livrables Stratégiques
 
 | Document | Rôle & Thématique Clé |
-| :--- | :--- |
+| 📘 [**Guide Opératoire Utilisateur**](Livrables/Guide_Operatoire_Exploitation_Agents.md) | Mode d'emploi, cheat sheet de prompts et procédures pour exploiter les agents au quotidien |
 | 👑 [**Macro-Architecture Agentique**](Livrables/Macro_Architecture_Agentique_MyFootScope.md) | Architecture multi-agents, boucle récursive de peer-review et diagramme de séquence Mermaid |
 | 📋 [**Blackboard Stratégique Partagé**](Livrables/Blackboard_Strategique.md) | Espace de délibération inter-agents, logs de veto éthique et synthèses consolidées |
 | 🔍 [**Stratégie SEO & GEO 2026**](Livrables/Strategie_SEO_GEO_myfootscope_fr.md) | Ingestion IA, programmatic SEO, standards `/llms.txt`, Schema Stacking et IndexNow |
