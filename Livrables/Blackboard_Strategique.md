@@ -16,6 +16,8 @@
 | `M-001` | 👤 Stratège Humain | 🔍 `@agent-seo-geo` | Audit Nginx : Détection du blocage ClaudeBot / PerplexityBot pour RAG | ✅ Terminé |
 | `M-002` | 👤 Stratège Humain | 👑 `@orchestrateur` | Cocon Sémantique (Topic Authority) & Stratégie Landing Page SXO | ✅ Terminé |
 | `M-003` | 👤 Stratège Humain | 👑 `@orchestrateur` | Stratégie SEO Globale vulgarisée & Découpage en 5 Epics de Vente | ✅ Terminé |
+| `M-004` | 👤 Stratège Humain | 👑 `@orchestrateur` | Définition des 5 Sprints d'Exécution Agile (US, DoD, Gantt 35j) | ✅ Terminé |
+| `M-005` | 👤 Stratège Humain | 👑 `@orchestrateur` | Spécifications Techniques Prêtes au Dev du Sprint 1 (Nginx, llms.txt, Hero Radar, Paywall 29€) | ✅ Terminé |
 
 ---
 
@@ -55,12 +57,27 @@ Recommandation : Découpler "ai_search" (autorisé en lecture index, follow) et 
 - Architecture en 3 Piliers étanches : /joueurs (individuel), /comparateur (duels 1v1), /metriques (éducatif & sémantique).
 - Landing Page : Application stricte de la règle des 30 % initiaux (Funnel Skip) avec composant interactif immédiat.
 - Veto UX : Refus des formulaires préalables pour tester le radar ; la découverte doit être immédiate en < 15 secondes.
+
+[2026-10-21] 👑 @orchestrateur : ARBITRAGE PLAN D'EXÉCUTION DES 5 SPRINTS (M-004)
+- Séquençage sur 35 jours ouvrés : Sprint 1 (Quick-Win Cash 29€ & RAG) > Sprint 2 (GEO & Cocon Éducatif) > Sprint 3 (Usine SSR 50k URLs) > Sprint 4 (Widget Viral & IndexNow) > Sprint 5 (OmniSearch ⌘+K & Dark Funnel).
+- Règle d'or : Chaque sprint produit un incrément déployable et testable indépendamment avec critères DoD stricts.
+- Veto Fair-Design : Intégration de la résiliation en 1 clic dès le Sprint 1 (Paywall Stripe).
+
+[2026-10-21] 👑 @orchestrateur : ARBITRAGE SPÉCIFICATIONS TECHNIQUES DU SPRINT 1 (M-005)
+- US 1.1 (Nginx) : Scission propre entre "ai_search" (index, follow) et "ai_training" (noai).
+- US 1.2 (Standard /llms.txt) : Spécification d'un fichier Markdown de synthèse à haute densité d'informations.
+- US 1.3 (SXO / Hero Radar) : Composant React/TSX complet autonome avec 2 profils dynamiques (Création & Finition) et différentiel visuel immédiat.
+- US 1.4 (Fair-Design Paywall) : Grille tarifaire 3 colonnes avec forfait Pro 29€ TTC, sans engagement et annulation 1-clic garantie.
 ```
 
 ---
 
 ## 4. Livrables Consolidés pour Décision Humaine (HITL)
 
+* **Validation Technique M-005 (Dossier Prêt au Dev Sprint 1) :**
+  - Validation du code et de la configuration avant application sur `football-dataviz-api`.
+* **Validation Opérationnelle M-004 (Plan d'Exécution des 5 Sprints) :**
+  - Validation du calendrier de 35 jours ouvrés et du périmètre global.
 * **Arbitrage M-001 (Configuration Nginx AI-Search) :**
   - Validation requise du fondateur pour séparer `ai_search` (`PerplexityBot`, `Claude-Search`, `ChatGPT-User`) et `ai_training` (`CCBot`, scrapers bruts) dans `00-maps.conf`.
 * **Validation Stratégique M-002 (Cocon Sémantique & Landing Page) :**
