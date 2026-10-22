@@ -19,6 +19,7 @@
 | `M-004` | 👤 Stratège Humain | 👑 `@orchestrateur` | Définition des 5 Sprints d'Exécution Agile (US, DoD, Gantt 35j) | ✅ Terminé |
 | `M-005` | 👤 Stratège Humain | 👑 `@orchestrateur` | Spécifications Techniques Prêtes au Dev du Sprint 1 (Nginx, llms.txt, Hero Radar, Paywall 29€) | ✅ Terminé |
 | `M-006` | 👤 Stratège Humain | 👑 `@orchestrateur` | Spécifications Techniques Prêtes au Dev du Sprint 2 (6 Fiches Piliers GEO, Schema Stacking @graph, Maillage ECharts) | ✅ Terminé |
+| `M-007` | 👤 Stratège Humain | 👑 `@orchestrateur` | Spécifications Techniques Prêtes au Dev du Sprint 3 (Usine 50k Joueurs SSR, Duels 1v1 Dédupliqués, Cartes OG 1200x630) | ✅ Terminé |
 
 ---
 
@@ -74,12 +75,19 @@ Recommandation : Découpler "ai_search" (autorisé en lecture index, follow) et 
 - Cocon Éducatif (US 2.1) : 6 fiches piliers (xG, xA, Passes progressives, PPDA, xT, Field Tilt) structurées en pyramide inversée (< 50 mots définition H1, densité ≥ 12 stats/100 mots).
 - GraphRAG & Schema Stacking (US 2.2) : Composant JsonLdMetric intégrant 5 schémas imbriqués (@graph) reliant le DataCatalog officiel à la DefinedTerm.
 - Maillage & ECharts (US 2.3) : Déclaration dans publicLayout de TanStack Router, maillage contextuel Reasonable Surfer depuis /catalog et vers la démo /explore.
+
+[2026-10-22] 👑 @orchestrateur : ARBITRAGE SPÉCIFICATIONS TECHNIQUES DU SPRINT 3 (M-007)
+- Usine Programmatique (US 3.1) : Exposition des 50 000 fiches joueurs (/joueurs/{slug}-{id}) avec paragraphe sémantique calculé (120-150 mots) et SSR Nginx pour indexation sans JS.
+- Déduplication Canonique (US 3.2) : Normalisation alphabétique stricte des duels (/comparateur/{a}-vs-{b}) avec redirection 301 automatique sur l'ordre inverse pour concentrer le PageRank.
+- Viralité OpenGraph (US 3.3) : Pipeline d'images dynamiques 1200x630 (/api/v1/og/) avec mise en cache proxy Nginx 7 jours pour optimiser le partage sur X/Reddit.
 ```
 
 ---
 
 ## 4. Livrables Consolidés pour Décision Humaine (HITL)
 
+* **Validation Technique M-007 (Dossier Prêt au Dev Sprint 3) :**
+  - Validation du pipeline SSR / Prerender et de la normalisation alphabétique des duels.
 * **Validation Technique M-006 (Dossier Prêt au Dev Sprint 2) :**
   - Validation des 6 contenus de fiches métriques et du modèle Schema Stacking JSON-LD.
 * **Validation Technique M-005 (Dossier Prêt au Dev Sprint 1) :**

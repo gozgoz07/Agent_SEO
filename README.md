@@ -15,6 +15,7 @@ Le dossier [`Livrables/`](Livrables/) est organisé en 4 domaines thématiques p
 | 🏁 [**Plan d'Exécution des 5 Sprints**](Livrables/01_Roadmap_Epics/Plan_Deploiement_Sprints_Execution_MyFootScope.md) | Découpage opérationnel en 5 Sprints (35 j), User Stories, fichiers cibles, critères DoD et diagramme Gantt |
 | 🛠️ [**Spécifications Techniques Sprint 1**](Livrables/01_Roadmap_Epics/Sprint_01_QuickWin_Cash_RAG_Specs_Techniques.md) | Dossier de réalisation prêt au dev : Nginx ai_search, /llms.txt, PublicWidgetRenderer ECharts et Paywall Stripe Pro 29€ |
 | 🧠 [**Spécifications Techniques Sprint 2**](Livrables/01_Roadmap_Epics/Sprint_02_Autorite_GEO_Cocon_Educatif_Specs_Techniques.md) | Dossier de réalisation prêt au dev : 6 Fiches Piliers (xG, xA, PPDA...), Schema Stacking JSON-LD @graph et maillage Reasonable Surfer |
+| 🏭 [**Spécifications Techniques Sprint 3**](Livrables/01_Roadmap_Epics/Sprint_03_Usine_SEO_Programmatique_Joueurs_Duels_Specs_Techniques.md) | Dossier de réalisation prêt au dev : Usine 50k fiches joueurs SSR, duels 1v1 dédupliqués (301 canonique) et cartes OpenGraph 1200x630 |
 
 ### 02. Acquisition, SEO & GEO (`Livrables/02_Acquisition_SEO_GEO/`)
 | Document | Rôle & Thématique Clé |
